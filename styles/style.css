@@ -83,3 +83,47 @@ body {
 .primary-btn:hover {
   background-color: #4a4ae5;
 }
+/* action section */
+.action{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 61px;
+    margin-left: 151px;
+    margin-right: 149px;
+    align-items: center;
+ }
+div h1{
+    font-size: 42px;
+    font-weight: bold;
+    gap: 10px;
+}
+div p{
+    font-size: 24px;
+    color: #cccbd4;
+    margin-top: 23px;
+}
+div button{
+    width: 229px;
+    height: 48px;
+    border-radius: 10px;
+    padding: 12px;
+    margin-top: 23px;
+    background-color: #5e5eff;
+    color: #cccbd4;
+    font-size: 16px;
+    font-weight: bold;
+    border: none;
+}
+div button:hover{
+    background-color: #4a4ae5;
+    cursor: pointer;
+}
+.t{
+    width: 517px;
+    height: 180px;
+}
+div img{
+     width: 377px;
+     height: 306px;
+     border-radius: 48px;
+}
