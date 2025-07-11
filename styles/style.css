@@ -11,7 +11,7 @@ body {
 }
 
 .hero {
-  background: url('./Assets/Hero-bg.png') center center/cover no-repeat;
+  background: url('/Assets/Hero-bg.png') center center/cover no-repeat;
   padding: 40px 20px 100px;
   text-align: center;
   position: relative;
@@ -363,6 +363,6 @@ footer{
     }
     .linkdiv a{
         text-decoration: none;
-        color: #8987A1;
+        color: #a8a2b4;
         font-size: 24px;
     }
